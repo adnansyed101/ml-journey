@@ -3,3 +3,5 @@ output.html
 movies_dataset.csv
 train.csv
 .ipynb_checkpoints
+datas
+output_files
